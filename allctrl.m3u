@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FoxSports1.mx" tvg-name="MX| FOX SPORTS 1 FHD MEGA" tvg-logo="" group-title="DEPORTES MX",MX| FOX SPORTS 1 FHD MEGA
+http://line.megacdn.live:80/live/MiCelLuisV/W9YBERZQ/190981.ts
+
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="MX| CANAL LAS ESTRELLAS FHD MEGA" tvg-logo="" group-title="ENTRETENIMIENTO MX",MX| CANAL LAS ESTRELLAS FHD MEGA
+http://line.megacdn.live:80/live/MiCelLuisV/W9YBERZQ/27286.ts
+
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="MX| BANDAMAX HD MEGA" tvg-logo="" group-title="MUSICA MX",MX| BANDAMAX HD MEGA
+http://line.megacdn.live:80/live/MiCelLuisV/W9YBERZQ/190946.ts
+
+#EXTINF:-1 tvg-id="MTVLive.mx" tvg-name="MX| MTV LIVE HD MEGA" tvg-logo="" group-title="MUSICA",MX| MTV LIVE HD MEGA
+http://line.megacdn.live:80/live/MiCelLuisV/W9YBERZQ/190916.ts
+
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="CINE Y SERIE | HBO HD MEGA" tvg-logo="" group-title="CINE",CINE Y SERIE | HBO HD MEGA
+http://line.megacdn.live:80/live/MiCelLuisV/W9YBERZQ/355977.ts
+
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="MX| CANAL 5 FHD MEGA" tvg-logo="" group-title="ENTRETENIMIENTO MX",MX| CANAL 5 FHD MEGA
+http://line.megacdn.live:80/live/MiCelLuisV/W9YBERZQ/27285.ts
+
+#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO SIGNATURES MEGA" tvg-logo="" group-title="CINE",HBO SIGNATURES MEGA
+http://line.megacdn.live:80/live/MiCelLuisV/W9YBERZQ/355982.ts
+
+#EXTINF:-1 tvg-id="VH1.mx" tvg-name="MX| VH1 HD MEGA" tvg-logo="" group-title="MUSICA",MX| VH1 HD MEGA
+http://line.megacdn.live:80/live/MiCelLuisV/W9YBERZQ/190942.ts
+
+#EXTINF:-1 tvg-id="CNN.es" tvg-name="MX| CNN en Esp MEGA" tvg-logo="" group-title="NOTICIAS",MX| CNN en Esp MEGA
+http://line.megacdn.live:80/live/MiCelLuisV/W9YBERZQ/401734319.ts
+
+#EXTINF:-1 tvg-id="ClaroSports.lotv" tvg-name="CLARO SPORTS LOTV" tvg-logo="" group-title="DEPORTES",CLARO SPORTS LOTV
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4LJYFCNjQtcxPRHVqKWuDJE/ts
+
+#EXTINF:-1 tvg-id="DW.es" tvg-name="218 ESP: DW / DW - Espana LOTV" tvg-logo="" group-title="NOTICIAS",218 ESP: DW / DW - Espana LOTV
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4GL-lbGa3XSfag58C4qXBBs/ts
+
+#EXTINF:-1 tvg-id="Discovery.lotv" tvg-name="DISCOVERY CHANNEL | HD LOTV" tvg-logo="" group-title="DOCUMENTALES",DISCOVERY CHANNEL | HD LOTV
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4HjbLtdO_Jagt62GDqwmWok/ts
+
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="MX | ADN 40 | HD LOTV" tvg-logo="" group-title="NOTICIAS MX",MX | ADN 40 | HD LOTV
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Gbo2i_YtNcIVlJG6jdWfoU/ts
+
+#EXTINF:-1 tvg-id="AnimalPlanet.lotv" tvg-name="ANIMAL PLANET EAST LOTV" tvg-logo="" group-title="DOCUMENTALES",ANIMAL PLANET EAST LOTV
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4JJeSlqwz8Lxtnp7kd2vP1g/ts
+
+#EXTINF:-1 tvg-id="Trece.arg" tvg-name="ARG HD | EL TRECE ARGENTINA LOTV" tvg-logo="" group-title="ENTRETENIMIENTO",ARG HD | EL TRECE ARGENTINA LOTV
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4C_pWoLhZcUvTLyx9gKBoJE/ts
+
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MX | AZTECA 7 | HD LOTV" tvg-logo="" group-title="ENTRETENIMIENTO MX",MX | AZTECA 7 | HD LOTV
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4OPSpaCiIDDU-k4cXFDjT2o/ts
+
+#EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="ESPN 3 MX LOTV" tvg-logo="" group-title="DEPORTES MX",ESPN 3 MX LOTV
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4Ov7lcIXF4N4mOlwbtAbpMU/ts
+
+#EXTINF:-1 tvg-id="ESPNDeportes.lotv" tvg-name="ESPN DEPORTES HD LOTV" tvg-logo="" group-title="DEPORTES",ESPN DEPORTES HD LOTV
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4G3QRIqB2VtqDp3v1eSq_eQ/ts
+
+#EXTINF:-1 tvg-id="Canal5.lotv" tvg-name="MX | CANAL 5 | HD LOTV" tvg-logo="" group-title="ENTRETENIMIENTO MX",MX | CANAL 5 | HD LOTV
+http://lotv.plus:80/play/Ld8l80v6Tv6yjOlq4FSi4OjvGVnYn4-XFEGvZA0iDtk/ts
+
+#EXTINF:-1 tvg-id="CalienteTV.znst" tvg-name="CALIENTE TV HD ZNST" tvg-logo="" group-title="DEPORTES",CALIENTE TV HD ZNST
+http://myservicego.info:8080/live/edu2025/edu123/1155573.ts
+
+#EXTINF:-1 tvg-id="ClaroSport1.znst" tvg-name="CLARO SPORT 1 ZNST" tvg-logo="" group-title="DEPORTES",CLARO SPORT 1 ZNST
+http://myservicego.info:8080/live/edu2025/edu123/215510.ts
+
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="DHD | TUDN MX HD ZNST" tvg-logo="" group-title="DEPORTES MX",DHD | TUDN MX HD ZNST
+http://myservicego.info:8080/live/edu2025/edu123/1508611.ts
+
+#EXTINF:-1 tvg-id="CNNMexico.znst" tvg-name="CNN MEXICO ZNST" tvg-logo="" group-title="NOTICIAS",CNN MEXICO ZNST
+http://myservicego.info:8080/live/edu2025/edu123/204320.ts
+
+#EXTINF:-1 tvg-id="ESPN1.mx" tvg-name="ESPN 1 MX ZNST" tvg-logo="" group-title="DEPORTES MX",ESPN 1 MX ZNST
+http://myservicego.info:8080/live/edu2025/edu123/105803.ts
+
+#EXTINF:-1 tvg-id="FoxSports1.znst" tvg-name="FOX SPORTS 1 MX ZNST" tvg-logo="" group-title="DEPORTES MX",FOX SPORTS 1 MX ZNST
+http://myservicego.info:8080/live/edu2025/edu123/2373221.ts
+
+#EXTINF:-1 tvg-id="TUDN.znst" tvg-name="TUDN MX ZNST" tvg-logo="" group-title="DEPORTES MX",TUDN MX ZNST
+http://myservicego.info:8080/live/edu2025/edu123/2373220.ts
+
+#EXTINF:-1 tvg-id="Investigation.znst" tvg-name="DISCOVERY INVESTIGATION ZNST" tvg-logo="" group-title="DOCUMENTALES",DISCOVERY INVESTIGATION ZNST
+http://myservicego.info:8080/live/edu2025/edu123/105877.ts
+
+#EXTINF:-1 tvg-id="History.znst" tvg-name="HISTORY SD ZNST" tvg-logo="" group-title="DOCUMENTALES",HISTORY SD ZNST
+http://myservicego.info:8080/live/edu2025/edu123/105884.ts
+
+#EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="ESPN 3 MEX ZNST" tvg-logo="" group-title="DEPORTES MX",ESPN 3 MEX ZNST
+http://myservicego.info:8080/live/edu2025/edu123/2044550.ts
